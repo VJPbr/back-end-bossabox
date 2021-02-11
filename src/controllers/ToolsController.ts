@@ -66,9 +66,6 @@ export default class ToolsController {
         .where('tools.id', id)
         .del()
       
-      // const tools = await db('tools');
-        
-      // return response.status(204).json(tools);
       return response.status(204).json();
     } catch (err) {
       return response.status(400).json('erro');
