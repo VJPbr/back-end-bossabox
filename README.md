@@ -14,7 +14,7 @@ Para realização do projeto foi utilizado o node, junto com as ferramentas cors
 ### Clone do projeto:
 
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/VJPbr/back-end-bossabox
 ```
 
 ### Instalar as dependências:
